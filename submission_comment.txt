@@ -1,0 +1,9 @@
+Fluid Mechanics Term Project Submission
+
+Subject 1: Spin Coating Thin-Film Uniformity: Reconstructing the Emslie-Bonner-Peck Theory
+
+Report: attached as Word document.
+GitHub repository: [PASTE_GITHUB_REPOSITORY_URL_HERE]
+Web simulator deployment: [PASTE_VERCEL_URL_HERE]
+
+The simulator includes a core interactive view, an analytical EBP validation view, and a design-exploration mode for the ±2% final radial-uniformity process window.
